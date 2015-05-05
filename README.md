@@ -5,7 +5,7 @@ A simple react native state tween animation module.
 ### Usage
 
 ```javascript
-var tween = new Tween({
+var animation = new RNTAnimation({
 
   // Start state
   start: {
@@ -38,7 +38,7 @@ var tween = new Tween({
     console.log('All done!');
 
     // Optionally
-    this.tween.reverse(() => {});
+    this.animation.reverse(() => {});
   }
 });
 ```
