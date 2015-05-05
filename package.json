@@ -1,0 +1,32 @@
+{
+  "name": "react-native-tween-animation",
+  "version": "1.0.0",
+  "description": "A simple react native state tween animation module.",
+  "main": "index.js",
+  "dependencies": {
+    "tween-functions": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirkness/react-native-tween-animation.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "animations",
+    "tween",
+    "component",
+    "react",
+    "js"
+  ],
+  "author": "Henry Kirkness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkness/react-native-tween-animation/issues"
+  },
+  "homepage": "https://github.com/kirkness/react-native-tween-animation"
+}

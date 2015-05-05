@@ -37,8 +37,8 @@ var animation = new RNTAnimation({
 
     console.log('All done!');
 
-    // Optionally
-    this.animation.reverse(() => {});
+    // Optionally reverse the animation
+    animation.reverse(() => {});
   }
 });
 ```
